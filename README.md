@@ -6,6 +6,7 @@
 - php/src/functions.php
 - /purchasePage.php
 - /partner.php
+- /blog.php
 - and then everything is stored in /xml/
 
 The printful api uses composer, so if something seems missing, it is. 
