@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<theprintedstore>
+  <item category="Products/Filament">
+    <title partner="yes">ABS Filament</title>
+    <price>$18</price>
+	<partner link="https://www.3dprintersonlinestore.com/flashforge-abs?tracking=5d5b8cd2d6705"></partner>
+    <description>
+	Our ABS Filament is a good material to start with because it’s easy to use and performs well on most prints.
+	ABS filament is the perfect material for 3D printing of strong and durable prints. It has great mechanical properties like high toughness and strength. /n /n
+	Lead Time (Processing/Shipping Handling Time): 1-2 Business days. Shipping from USA /c /n
+	b/ Features: /b /n
+		Material: ABS /n 
+		Diameter: 1.75 x 3 mm /n
+		Weight: 1 kg (2.2 lb) /n
+		Print temperature: 230-260 degrees /n
+		</description>
+	<subdescription size="b/ FREE USA SHIPPING /b">Please purchase filaments as seperate order to get free shipping offer</subdescription>
+	<images>
+	<image0 alt="filament">./images/filament/1.jpg</image0>
+	<image1 alt="filament1">./images/filament/2.jpg</image1>
+	</images>
+	<thumb>./images/filament/ABSThumb.jpg</thumb>
+  </item>
+    <item category="Products/Filament">
+    <title partner="yes">PLA Filament</title>
+    <price>$18</price>
+	<partner link="https://www.3dprintersonlinestore.com/flashforge-pla?tracking=5d5b8cd2d6705"></partner>
+    <description>
+	Our PLA Filament is a good material to start with because it’s easy to use and performs well on most prints.
+	PLA filament is one of the most popular materials to print with, and for a reason! It is a harmless, good-looking due to the semi-transparency and strong material, and it is biodegradable. /n /n
+	Lead Time (Processing/Shipping Handling Time): 1-2 Business days. Shipping from USA /c /n
+	b/ Features: /b /n
+		Material: PLA /n 
+		Diameter: 1.75 x 3 mm /n
+		Weight: 1 kg (2.2 lb) /n
+		Print temperature: 170-200 degrees /n
+		</description>
+	<subdescription size="b/ FREE USA SHIPPING /b">Please purchase filaments as seperate order to get free shipping offer</subdescription>
+	<images>
+	<image0 alt="filament">./images/filament/3.jpg</image0>
+	</images>
+	<thumb>./images/filament/PLAThumb.jpg</thumb>
+  </item>
+</theprintedstore>

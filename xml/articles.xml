@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<theprintedstore>
+<item category=" Tutorials / 3d Printing">
+    <title partner="yes">Photogrammetry</title>
+	<thumbnail>./images/blog/photogrammetry.jpg</thumbnail>
+    <images>
+	<img1 alt="photogrammetry">../images/blog/photogrammetry.jpg</img1>
+	</images>
+	<partner link="./blog/photogrammetry.php"></partner>
+	<paragraphs>
+	<p1>A funny sounding word, with a lot of meaning. It is, taking precise and exact measurements from photographs. 
+		Typically methods like sonar, radar, and lidar are used with imagery analysis in a computational effort to produce 
+		two dimensional and three dimensional depth fields based on the sensory input. There are multiple subcategories branching 
+		off like stereophotogrammetry and stereoscopy. But if you look at them as a whole, and call it all photogrammetry. You are 
+		left with the art of taking three dimensional scenes, stripping them of their depth, turning them into two dimensional scenes, 
+		and then recalculating depth for scene reconstruction. And doing the process in reverse as well, allows you to decide if you want 
+		photo realistic models in your games, or taking 3D game and movie scenes and tricking your brain into thinking it has depth. 
+	</p1>
+	<p2>Technology is getting more advanced and so is the software, it is now very simple to use almost any camera to take pictures 
+		with no supplemental sensory input and process the photos into usable depth field data.
+	</p2>
+	<p3>Using real world scale can allow you to take accurate measurements of stockpile volume. Easily determine distances, routes, size, 
+		height, and structural integrity with accurate colors and textures. This opens up a whole new world of surveying, but also for graphic 
+		design as well.
+	</p3>
+	<p4>Being able to produce photo realistic video game art is a game changer, literally. The ability to scan yourself and your house into games 
+		is in the near future. But for now, graphic designers are selling these photo realistic models on the open market, so you may have already played 
+		a game using this technology. 
+	</p4>
+	<p5>But what is next? If photogrammetric technology keeps advancing, and it keeps getting easier to do. Then it will be easier to scan more things, 
+		I think an exact virtual replica of the entire world, all of its cities, and all of its people could be 
+		expected.
+	</p5>
+	</paragraphs>
+	<external alt="Home">../index.php</external>
+  </item>
+<item category=" Tutorials / 3d Printing">
+    <title partner="yes">3D Printing</title>
+	<thumbnail>./images/blog/3DPrinting.jpg</thumbnail>
+    <images>
+	<img1 alt="3DPrinting">../images/blog/3DPrinting.jpg</img1>
+	</images>
+	<partner link="./blog/3DPrinting.php"></partner>
+	<paragraphs>
+	<p1>For years artisans and craftsman have found a home selling their goods on the handmade marketplace Etsy. 
+	From knitted scarves, wood carved toys and customized jewelry, Etsy has precipitated a renaissance in handcrafted products. 
+	New research from the Association For Creative Industries reports this creative economy has grown to a staggering $43.9 billion. 
+	That’s a 45% increase from the $30.1 billion measured in 2011, making creativity one of the fastest growing markets of the decade. 
+	</p1>
+	<p2>The highly customized handicraft market isn’t restricted to traditional trades, however. With the emergence of desktop 3D printing, 
+	non-conventional digital designers are creating an innovative niche of made-to-order 3D printed items. Unlike their analog counterparts, 
+	digital artists only need to invest their time in the initial design, with the product then 3D printed ad-infinitum. The freedom from not 
+	having to hand make the same design frees the designer to focus on the creative and business aspects of administering a successful store. 
+	Without the limitations of human labor, a successful digital artist can far exceed the scale limitations of producing their products by hand.
+	</p2>
+	<p3>Despite the innovations in desktop fabrication, there are still several limiting factors preventing the widespread adoption of 3D printing 
+	by designers and artists. The upfront cost of a 3D printer, while decreasing, is still significant. Creating printable files (called “slicing”) 
+	also requires skill, patience and trial, and error. 3D printers are also notoriously maintenance prone, as well as slow. It’s not uncommon for 
+	3D prints to take hours and even days. Without several printers running in parallel, it quickly becomes a challenge to keep up with demand.
+	</p3>
+	<p4>Fortunately, several online 3D print services have risen to the challenge. Companies like SpeedWright offer on-demand 3D printing, with a 
+	wide selection of color and materials. Fast turn around, combined with drop shipping, allows a pay-as-you-go business model. Traditional 
+	manufacturing requires expensive mold making and minimum order quantities in the thousands. By leveraging an online 3D printing service, 
+	designers can quickly prototype, sell, and ship new products while getting validation in real time. 3D stores have uncapped growth potential 
+	thanks to the scalability afforded by these services.
+	</p4>
+	<p5>It’s projected the 3D printing market will reach a $33.58 billion by 2022. Online 3D printing services allow effortless access to this 
+	expanding market, which is outpacing traditional manufacturing year after year. Stores of the future will focus on content creation while 
+	agile 3D printers will handle manufacturing, supply chain logistics, and delivery. Just-in-time manufacturing with deep customization will 
+	remove the barriers of small business production, allowing unparalleled innovation. Anyone with an idea and a laptop can offer their product 
+	to the masses, without the upfront costs and difficulty of dealing with overseas manufacturers.
+	</p5>
+	</paragraphs>
+	<external alt="Home">../index.php</external>
+  </item>
+</theprintedstore>
