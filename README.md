@@ -13,3 +13,10 @@ Responsive Web Store/Blog written in Php and foundation responsive front-end, th
 The printful api uses composer, so if something seems missing(vendor), it is. 
 
 The printful functions I made are commented out for this reason.
+## Donation Addresses:
+BTC: `39jKNoXoxtsdiUCFjU2ULV9AH2vHHMxK5P`\
+ETH: `0xa660e3ae6ea3e767dc8cedb38c6eaacdca9c1b3c`\
+Nano: `nano_1mrgkm6prabc5f3j341j6cxefxbt5hibdy9nio1ezgzs5uqouoqzjpojrss9`\
+RVN: `RGgnUmXxke3bP1CLoDMjEycfjga1B6Bogi`\
+ZIL: `zil1kee00mphd2j8lg8gtxw5q4ua2ue3uarzgyurrj`\
+ETC: `0x30ea790365e973d3B3b5de71A8AA808ead1257Fd`
